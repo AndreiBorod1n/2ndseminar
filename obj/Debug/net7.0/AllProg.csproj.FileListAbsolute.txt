@@ -1,0 +1,15 @@
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\2ndseminar\AllProg\bin\Debug\net7.0\AllProg.exe
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\2ndseminar\AllProg\bin\Debug\net7.0\AllProg.deps.json
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\2ndseminar\AllProg\bin\Debug\net7.0\AllProg.runtimeconfig.json
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\2ndseminar\AllProg\bin\Debug\net7.0\AllProg.dll
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\2ndseminar\AllProg\bin\Debug\net7.0\AllProg.pdb
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\2ndseminar\AllProg\obj\Debug\net7.0\AllProg.csproj.AssemblyReference.cache
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\2ndseminar\AllProg\obj\Debug\net7.0\AllProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\2ndseminar\AllProg\obj\Debug\net7.0\AllProg.AssemblyInfoInputs.cache
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\2ndseminar\AllProg\obj\Debug\net7.0\AllProg.AssemblyInfo.cs
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\2ndseminar\AllProg\obj\Debug\net7.0\AllProg.csproj.CoreCompileInputs.cache
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\2ndseminar\AllProg\obj\Debug\net7.0\AllProg.dll
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\2ndseminar\AllProg\obj\Debug\net7.0\refint\AllProg.dll
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\2ndseminar\AllProg\obj\Debug\net7.0\AllProg.pdb
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\2ndseminar\AllProg\obj\Debug\net7.0\AllProg.genruntimeconfig.cache
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\GeekBrains\Introduction to C#\2ndseminar\AllProg\obj\Debug\net7.0\ref\AllProg.dll
