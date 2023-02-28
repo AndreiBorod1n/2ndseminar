@@ -12,3 +12,5 @@ int c = value % 10; // Остаток от деления
 
 int ac = a*10 + c;
 Console.WriteLine(ac);
+
+// ффф
